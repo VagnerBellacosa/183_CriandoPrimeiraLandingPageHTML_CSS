@@ -31,7 +31,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando sua primeira Landing Page com HTML e CSS](https://web.dio.me/lab/desafio-primeiros-passos-com-css/learning/a2a200c9-b11b-4ed4-a821-0be43b6244be)[Entendendo o desafio](https://web.dio.me/lab/desafio-primeiros-passos-com-css/learning/401c88c4-c068-481c-99f0-7f0565542e90)
+- [Criando sua primeira Landing Page com HTML e CSS](https://web.dio.me/lab/desafio-primeiros-passos-com-css/learning/a2a200c9-b11b-4ed4-a821-0be43b6244be)
+- [Entendendo o desafio](https://web.dio.me/lab/desafio-primeiros-passos-com-css/learning/401c88c4-c068-481c-99f0-7f0565542e90)
 
 
 
